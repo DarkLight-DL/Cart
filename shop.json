@@ -1,7 +1,7 @@
 {
     "list":[
     {
-        "img": "../image/iphone 16.jpg",
+        "img": "./image/iphone 16.jpg",
         "name": "iPhone 16 Pro Max",
         "price": "₹1,44,900",
         "description": "Super Retina XDR display 17.43 cm / 6.9″ (diagonal) all‑screen OLED display 2868x1320-pixel resolution at 460 ppi The screen is 17.43 cm (6.86″) diagonally (actual viewable area is less)."
