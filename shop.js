@@ -23,9 +23,9 @@ fetch("./shop.json")
       `;
 
       row.appendChild(card);
+      container.appendChild(row);
     }
 
-    container.appendChild(row);
   })
   .catch(err => console.error("Error Fetching JSON:", err));
 
