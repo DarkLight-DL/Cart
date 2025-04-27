@@ -1,13 +1,13 @@
 {
     "list":[
     {
-        "image": "../image/iphone 16.jpg",
+        "img": "../image/iphone 16.jpg",
         "name": "iPhone 16 Pro Max",
         "price": "₹1,44,900",
         "description": "Super Retina XDR display 17.43 cm / 6.9″ (diagonal) all‑screen OLED display 2868x1320-pixel resolution at 460 ppi The screen is 17.43 cm (6.86″) diagonally (actual viewable area is less)."
     },
     {
-        "img": "../image/lg tv.jpg",
+        "img": "../image/lg tv.png",
         "name": "LG 43' 4K Ultra HD LED",
         "price": "₹43,992,00",
         "description": "Screen 108 cm (43) UHD TV (UP77) with Quad Core Processor 4K, Active HDR, Smart AI, 60 Hz Refresh Rate reviews, and tech specs for the LG 43 (109.22 cm) LG UHD AI UT90 4K Smart TV 2024."

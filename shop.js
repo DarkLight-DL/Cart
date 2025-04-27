@@ -12,7 +12,7 @@ fetch("./shop.json")
 
       card.innerHTML = `
         <div class="card h-100 shadow-sm">
-          <img src="${datas[i].image}" class="card-img-top" alt="${datas[i].name}" >
+          <img src="${datas[i].img}" class="card-img-top" alt="${datas[i].name}" >
           <div class="card-body d-flex flex-column">
             <h5 class="card-title text-center">${datas[i].name}</h5>
             <h6 class="text-primary my-3" > price: ${datas[i].price}</h6>
