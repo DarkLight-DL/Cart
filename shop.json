@@ -1,25 +1,25 @@
 {
     "list":[
     {
-        "img": "../image/iphone 16.jpg",
+        "img": "./image/iphone16.jpg",
         "name": "iPhone 16 Pro Max",
         "price": "₹1,44,900",
         "description": "Super Retina XDR display 17.43 cm / 6.9″ (diagonal) all‑screen OLED display 2868x1320-pixel resolution at 460 ppi The screen is 17.43 cm (6.86″) diagonally (actual viewable area is less)."
     },
     {
-        "img": "../image/lg tv.jpg",
+        "img": "./image/lgtv.jpg",
         "name": "LG 43' 4K Ultra HD LED",
         "price": "₹43,992,00",
         "description": "Screen 108 cm (43) UHD TV (UP77) with Quad Core Processor 4K, Active HDR, Smart AI, 60 Hz Refresh Rate reviews, and tech specs for the LG 43 (109.22 cm) LG UHD AI UT90 4K Smart TV 2024."
     },
     {
-        "img": "../image/laptop.jpg",
+        "img": "./image/laptop.jpg",
         "name": "Microsoft Surface Pro",
         "price": "₹1,61,990",
         "description": " (New Surface Pro 11Th Edition) Wi-Fi-Windows 11 Home Copilot + Pc -13' OLED Pixelsense Touchscreen -Qualcomm Snapdragon X Elite(12 Core) -16Gb Ram -512Gb Ssd -Platinum -Zia-00014."
     },
     {
-        "img": "../image/camera.jpg",
+        "img": "./image/camera.jpg",
         "name": "Sony A7 Mark",
         "price": "₹1,42,10",
         "description": "Sony A7 Mark is a versatile camera for enthusiastic photographers and videographers. It has a light-sensitive CMOS full-frame image sensor. This makes it possible to take."
