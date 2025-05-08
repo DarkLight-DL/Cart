@@ -8,7 +8,7 @@ fetch("./shop.json")
     let datas = data.list;
     for (let i = 0; i < datas.length; i++) {
       let card = document.createElement("div");
-      card.classList.add("shop", "col-lg-3", "col-md-6", "col-sm-12", "mb-4");
+      card.classList.add("shop", "col-lg-3", "col-md-6", "col-sm-6", "mb-4");
 
       card.innerHTML = `
         <div class="card h-100 shadow-sm">
